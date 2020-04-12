@@ -1,3 +1,23 @@
+/* ------ date choise block -------- */
+
+h3.header-date {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.choose-date {
+    cursor: pointer;
+    text-decoration: underline;
+    color: #4d58e9;
+}
+
+.date {
+    position: absolute;
+    left: 432px;
+    top: 183px;
+    z-index: 999;
+}
+
 .block {
     position: relative;
     padding: 20px 15px 20px 20px;
